@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:583:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:583:0> ;
     skos:prefLabel "Yap"@eng-Latn ;
-    wdata:q7200235 "FM1" ;
+    wdata:Q7200235 "FM1" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -48,7 +48,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:583:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:583:0> ;
     skos:prefLabel "Chuuk"@eng-Latn ;
-    wdata:q7200235 "FM2" ;
+    wdata:Q7200235 "FM2" ;
 .
 
 <urn:mdciii:1603:16:583:1:3>
@@ -59,7 +59,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:583:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:583:0> ;
     skos:prefLabel "Pohnpei"@eng-Latn ;
-    wdata:q7200235 "FM3" ;
+    wdata:Q7200235 "FM3" ;
 .
 
 <urn:mdciii:1603:16:583:1:4>
@@ -70,6 +70,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:583:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:583:0> ;
     skos:prefLabel "Kosrae"@eng-Latn ;
-    wdata:q7200235 "FM4" ;
+    wdata:Q7200235 "FM4" ;
 .
 
